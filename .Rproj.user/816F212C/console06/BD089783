@@ -10,4 +10,254 @@ C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0K[43G[?25lC:\Users\
 C:\Users\Lenovo\Documents\MC\Generator>[0K[?25h[?25l[2AInitialized empty Git repository in C:/Users/Lenovo/Documents/MC/Generator/[0K.
 git/[0K
 [0K
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git a[0K[?25hd[0Kd[0K[48G[?25lC:\Users\Lenovo\Documents\MC\Generator>git add .[0K[?25h]0;  - git  add .[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/816F212C/pcs/files-pane[0K.[?25l
+pper.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/pcs/source-pan[0Ke
+.pper.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/pcs/windowlayo[0Ku
+tstate.pper.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/816F212C/pcs/workbench-[0Kp[?25l
+ane.pper.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/rmd-outputs.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/prop/3[0K4
+3465C7.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/prop/5[0K9
+4FAB1E.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/prop/7[0K7
+E32B36.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/prop/7[0KE
+D6D221.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/prop/I[0KN
+DEX.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/s-AFF1[0K8[?25l
+F13/15E1B64B.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/s-AFF1[0K8
+F13/15E1B64B-contents.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/s-AFF1[0K8
+F13/7698FD.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/s-AFF1[0K8
+F13/7698FD-contents.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/s-AFF1[0K8
+F13/DF626102.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/816F212C/sources/s-AFF1[0K8
+F13/DF626102-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[51G[?25lC:\Users\Lenovo\Documents\MC\Generator>git commit -[0K[?25hm[0K[54G[?25lC:\Users\Lenovo\Documents\MC\Generator>git commit -m "[0K[?25hf[0Ki[0Kr[0Kt[0Ks[0K[61G[?25lC:\Users\Lenovo\Documents\MC\Generator>git commit -m "firts v[0K[?25he[0Kr[0Ks[0Ki[0Ko[0Kn[0K"[0K]0;  - git  commit -m "firts version"[?25l
+[0K[?25h[master (root-commit) e2c1235] firts version[0K[?25l
+ 28 files changed, 690 insertions(+)[0K
+ create mode 100644 .Rhistory[0K
+ create mode 100644 .Rproj.user/816F212C/console06/BD089783[0K
+ create mode 100644 .Rproj.user/816F212C/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/816F212C/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/816F212C/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/816F212C/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/816F212C/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/816F212C/rmd-outputs[0K
+ create mode 100644 .Rproj.user/816F212C/saved_source_markers[0K
+ create mode 100644 .Rproj.user/816F212C/sources/prop/343465C7[0K
+ create mode 100644 .Rproj.user/816F212C/sources/prop/594FAB1E[0K
+ create mode 100644 .Rproj.user/816F212C/sources/prop/77E32B36[0K
+ create mode 100644 .Rproj.user/816F212C/sources/prop/7ED6D221[0K
+ create mode 100644 .Rproj.user/816F212C/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/15E1B64B[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/15E1B64B-conten[0Kt
+s[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/7698FD[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/7698FD-contents[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/DF626102[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/DF626102-conten[0Kt
+s[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/FF95A18E-mc/1/816F212CAFF1[0K8
+F13/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/FF95A18E-mc/1/s/chunks.jso[0Kn
+[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 Generator.Rproj[0K
+ create mode 100644 app.R[0K
+ create mode 100644 generator.R[0K
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25h[41G[?25lC:\Users\Lenovo\Documents\MC\Generator> ^V[0K[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>[0K[41G[?25h[40G[?25lC:\Users\Lenovo\Documents\MC\Generator>g[0K[?25hi[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[51G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote a[0K[?25hd[0Kd[0K[55G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add o[0K[?25hr[0Ki[0Kf[0K[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add ori[0K[?25hg[0Ki[0Kn[0K[62G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[69G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote ^V[0K[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote[0K[69G[?25h[68G[?25l[13A create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/DF626102-contents[0K
+ create mode 100644 .Rproj.user/816F212C/sources/s-AFF18F13/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/FF95A18E-mc/1/816F212CAFF18F13/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/FF95A18E-mc/1/s/chunks.json[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 Generator.Rproj[0K
+ create mode 100644 app.R[0K
+ create mode 100644 generator.R[0K
+[0K
+C:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote[0K
+[0K
+[0K
+[0K[3A[68G[?25h[69G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@github.com:monikachudek/MC_gene[0Kr
+ator_odwr_modulo.git[0K
+[0K
+[0K[2A[21G[?25h]0;  - git  remote add origin remote git@github.com:monikachudek/MC_generator_odwr_modulo.git[?25l
+[?25h]0; usage: git remote add [<options>] <name> <url>[0K[?25l
+[0K
+    -f, --fetch           fetch the remote branches[0K
+    --tags                import all tags and associated objects when fetching[0K
+                          or do not fetch any tag at all (--no-tags)[0K
+    -t, --track <branch>  branch(es) to track[0K
+    -m, --master <branch>[0K
+                          master branch[0K
+    --mirror[=<push|fetch>][0K
+                          set up remote as a mirror to push to or fetch from[0K
+[0K
+[0K
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hc[0K[?25lC:\Users\Lenovo\Documents\MC\Generator>[0K[?25h[?25l[14AC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@git[0Kh
+ub.com:monikachudek/MC_generator_odwr_modulo.git[0K
+usage: git remote add [<options>] <name> <url>[0K
+[0K
+    -f, --fetch           fetch the remote branches[0K
+    --tags                import all tags and associated objects when fetch[0Ki
+ng[0K
+                          or do not fetch any tag at all (--no-tags)[0K
+    -t, --track <branch>  branch(es) to track[0K
+    -m, --master <branch>[0K
+                          master branch[0K
+    --mirror[=<push|fetch>][0K
+                          set up remote as a mirror to push to or fetch fro[0Km
+[0K
+[0K
+[0K
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[51G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote -[0K[?25hv[0K]0;  - git  remote -v[?25l
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hgit remote -v[0K[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@git[0Kh
+ub.com:monikachudek/MC_generator_odwr_modulo.git[0K[?25h[?25l[1AC:\Users\Lenovo\Documents\MC\Generator>git commit -m "firts version"[0K
+[0K[1A[69G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@git[0Kh
+ub.com:monikachudek/MC_generator_odwr_modulo.git[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_modulo.gi[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_modulo.g[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_modulo.[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_modul[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_modu[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_mo[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_m[0K[?25h[?25lub.com:monikachudek/MC_generator_odwr_[0K[?25h[?25lub.com:monikachudek/MC_generator_odw[0K[?25h[?25lub.com:monikachudek/MC_generator_od[0K[?25h[?25lub.com:monikachudek/MC_generator_[0K[?25h[?25lub.com:monikachudek/MC_generator[0K[?25h[?25lub.com:monikachudek/MC_generato[0K[?25h[?25lub.com:monikachudek/MC_generat[0K[?25h[?25lub.com:monikachudek/MC_gener[0K[?25h[?25lub.com:monikachudek/MC_gene[0K[?25h[?25lub.com:monikachudek/MC_gen[0K[?25h[?25lub.com:monikachudek/MC_g[0K[?25h[?25lub.com:monikachudek/MC_[0K[?25h[?25lub.com:monikachudek/M[0K[?25h[?25lub.com:monikachudek/[0K[?25h[?25lub.com:monikachudek[0K[?25h[?25lub.com:monikachude[0K[?25h[?25lub.com:monikachud[0K[?25h[?25lub.com:monikachu[0K[?25h[?25lub.com:monikach[0K[?25h[?25lub.com:monikac[0K[?25h[?25lub.com:monika[0K[?25h[?25lub.com:monik[0K[?25h[?25lub.com:moni[0K[?25h[?25lub.com:mon[0K[?25h[?25lub.com:mo[0K[?25h[?25lub.com:m[0K[?25h[?25lub.com:[0K[?25h[?25lub.com[0K[?25h[?25lub.c[0K[?25h[?25lub.[0K[?25h[?25lub[0K[?25h[?25l[0K[?25h[?25l[1AC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@git[0K
+[0K[1A[76G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@gi[0K
+[0K[1A[75G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote git@[0K
+[0K[1A[73G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote gi[0K
+[0K[1A[71G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote g[0K
+[0K[1A[70G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote[0K
+[0K[1A[69G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remot[0K
+[0K[1A[67G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote[0K
+[0K[1A[68G[?25h[69G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote add origin remote https:/[0K/
+github.com/monikachudek/MC_generator_odwr_modulo.git[0K[?25h]0;  - git  remote add origin remote https://github.com/monikachudek/MC_generator_odwr_modulo.git[?25l
+[0K[?25h]0; usage: git remote add [<options>] <name> <url>[0K[?25l
+[0K
+    -f, --fetch           fetch the remote branches[0K
+    --tags                import all tags and associated objects when fetch[0Ki
+ng[0K
+                          or do not fetch any tag at all (--no-tags)[0K
+    -t, --track <branch>  branch(es) to track[0K
+    -m, --master <branch>[0K
+                          master branch[0K
+    --mirror[=<push|fetch>][0K
+                          set up remote as a mirror to push to or fetch fro[0Km
+[0K
+[0K
+[0K
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hgit remote add origin https://github[0K.[?25l
+com/monikachudek/MC_generator_odwr_modulo.git[0K[?25h[?25l
+[0K[?25h]0;  - git  remote add origin https://github.com/monikachudek/MC_generator_odwr_modulo.git]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[51G[?25lC:\Users\Lenovo\Documents\MC\Generator>git remote -[0K[?25hv[0K]0;  - git  remote -v[?25l
+[0K[?25h]0; origin  https://github.com/monikachudek/MC_generator_odwr_modulo.git (fetch[0K)[?25l
+[0K
+origin  https://github.com/monikachudek/MC_generator_odwr_modulo.git (push)[0K
+[0K
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git p[0K[?25hu[0Ks[0Kh[0K]0;  - git  push[?25l
+[0K[?25hfatal: The current branch master has no upstream branch.[0K[?25l
+To push the current branch and set the remote as upstream, use[0K
+[0K
+    git push --set-upstream origin master[0K
+[0K
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hgit push -u origin master[0K]0;  - git  push -u origin master[?25l
+[0K[?25hCounting objects: 38, done.[0K[?25l
+[0K[?25hDelta compression using up to 4 threads.[0K[?25l
+Compressing objects: 100% (31/31), done.[0K
+Writing objects: 100% (38/38), 5.93 KiB | 379.00 KiB/s, done.[0K
+Total 38 (delta 3), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas:  66% (2/3)[0K[40G[?25lremote: Resolving deltas: 100% (3/3), done.[0K
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/monikachudek/MC_generator_odwr_modulo/pull/[0Kn
+ew/master[0K
+remote:[0K
+[0K[?25hTo https://github.com/monikachudek/MC_generator_odwr_modulo.git[0K[?25l
+ * [new branch]      master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/816F212C/console06/BD089783[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/prop/343465C7[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/s-AFF18F13/7698FD[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/s-AFF18F13/7698FD-contents[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25h[?25l[7A        [0;31mmodified:   .Rproj.user/816F212C/console06/BD089783[0K
+[0m        [0;31mmodified:   .Rproj.user/816F212C/sources/prop/343465C7[0K
+[0m        [0;31mmodified:   .Rproj.user/816F212C/sources/s-AFF18F13/7698FD[0K
+[0m        [0;31mmodified:   .Rproj.user/816F212C/sources/s-AFF18F13/7698FD-contents[0K
+[0m[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git t[0K[?25ho[0Ku[0Kc[0Kh[0K[50G[?25lC:\Users\Lenovo\Documents\MC\Generator>git touch .[0K[?25hg[0Ki[0Kt[0Ki[0Kg[0Kn[0Ko[0Kr[0Ke[0K]0;  - git  touch .gitignore[?25l
+[0K[?25hgit: 'touch' is not a git command. See 'git --help'.[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hgit touch .gitignore[0K[59G[58G[57G[56G[55G[53G[51G[49G[48G[47G[46G[45G[44G[43G[42G[43G[?25lC:\Users\Lenovo\Documents\MC\Generator>gi touch .gitignore[0K[42G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator>g touch .gitignore[0K[41G[?25h[?25lC:\Users\Lenovo\Documents\MC\Generator> touch .gitignore[0K[40G[?25h]0;  - touch  .gitignore[?25l
+[0K[?25h]0; [?25l
+C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mdeleted:    .Rhistory[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/console06/BD089783[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/prop/343465C7[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/prop/INDEX[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/s-AFF18F13/7698FD[0m[0K
+        [0;31mmodified:   .Rproj.user/816F212C/sources/s-AFF18F13/7698FD-contents[0m[0K
+        [0;31mmodified:   generator.R[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/816F212C/sources/prop/4DBFE5D8[0m[0K
+        [0;31m.Rproj.user/816F212C/sources/s-AFF18F13/1F1DA06C[0m[0K
+        [0;31m.Rproj.user/816F212C/sources/s-AFF18F13/1F1DA06C-contents[0m[0K
+        [0;31m.Rproj.user/816F212C/sources/s-AFF18F13/436F6DC3[0m[0K
+        [0;31m.Rproj.user/816F212C/sources/s-AFF18F13/436F6DC3-contents[0m[0K
+        [0;31m.gitignore[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K
 C:\Users\Lenovo\Documents\MC\Generator>[0K[?25hg[0Ki[0Kt[0K[44G[?25lC:\Users\Lenovo\Documents\MC\Generator>git a[0K[?25hd[0Kd[0K[48G[?25lC:\Users\Lenovo\Documents\MC\Generator>git add .[0K[?25h

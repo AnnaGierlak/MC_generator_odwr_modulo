@@ -84,6 +84,3 @@ formatSeries <- function(vec){
   vec
 }
 
-
-
-
