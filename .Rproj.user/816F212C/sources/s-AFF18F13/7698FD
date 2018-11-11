@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541881562268.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7698FD",
+    "lastKnownWriteTime" : 1541885748,
+    "last_content_update" : 1541885748477,
+    "path" : "~/MC/Generator/generator.R",
+    "project_path" : "generator.R",
+    "properties" : {
+        "cursorPosition" : "89,0",
+        "scrollLine" : "68"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
